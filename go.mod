@@ -1,4 +1,4 @@
-module github.com/chrede88/qubtTemplate
+module github.com/Rahim7X/Rahim7X-app
 
 go 1.21.4
 
